@@ -346,7 +346,7 @@ export function generateSingleHtmlPresentation(): string {
                     ✨ Estudo de Precificação & Proposta Comercial
                   </span>
                   <span class="bg-black/30 text-amber-100 text-xs font-semibold px-3 py-1 rounded-full border border-white/20">
-                    🏢 Cliente: Assaí Atacadista
+                    🏢 Cliente: Supermercado Assaí Atacadista
                   </span>
                 </div>
 
