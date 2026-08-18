@@ -1,0 +1,6 @@
+{
+  "name": "Análise de Desempenho Instagram - @jpbcordoba",
+  "description": "Apresentação executiva e painel analítico de métricas de impressões, alcance, interações, engajamento e comparativo mensal de visualizações de Feed e Stories do perfil @jpbcordoba (João Paulo Córdoba).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
