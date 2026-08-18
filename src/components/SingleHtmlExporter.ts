@@ -205,7 +205,7 @@ export function generateSingleHtmlPresentation(): string {
                 <div class="text-xs text-slate-400 mb-1">Taxa de Não-Seguidores Alcançados</div>
                 <div class="text-2xl font-bold text-emerald-400">74.2%</div>
                 <p class="text-[11px] text-slate-400 mt-1">
-                  Alto poder viral via Reels de humor (esquetes com o Ruka) atraindo audiência nova continuamente.
+                  Alto poder viral via Reels de humor (esquetes com a Ruka) atraindo audiência nova continuamente.
                 </p>
               </div>
 
@@ -351,7 +351,7 @@ export function generateSingleHtmlPresentation(): string {
                 </div>
 
                 <h2 class="text-2xl sm:text-3xl lg:text-4xl font-black text-white tracking-tight">
-                  Proposta: João Córdoba • 329 Mil Seguidores
+                  Proposta: João Córdoba • 330 Mil Seguidores
                 </h2>
 
                 <p class="text-sm sm:text-base text-amber-100/95 font-medium leading-relaxed">
@@ -383,7 +383,7 @@ export function generateSingleHtmlPresentation(): string {
                 Pacote Recomendado (Equilíbrio de Mercado)
               </h3>
               <p class="text-xs sm:text-sm text-slate-300 leading-relaxed">
-                Valor calibrado no ponto de equilíbrio do mercado para 329 mil seguidores com desconto de ~40% sobre a tabela avulsa.
+                Valor calibrado no ponto de equilíbrio do mercado para 330 mil seguidores com desconto de ~40% sobre a tabela avulsa.
               </p>
             </div>
 
