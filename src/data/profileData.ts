@@ -9,7 +9,7 @@ export const JP_PROFILE_SUMMARY: ProfileSummary = {
   bio: 'Criador de Conteúdo & Esquetes com @ruka 🎭 | Podcast "Aqui Acontece" 🎙️ | Negócios, Humor & Vida Real',
   category: 'Empreendedor & Criador de Conteúdo',
   location: 'São José dos Campos, SP - Brasil',
-  followers: 330.000,
+  followers: 330 mil,
   following: 1449,
   postsCount: 542,
   totalImpressionsPeriod: 19450000,
